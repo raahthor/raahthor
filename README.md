@@ -2,7 +2,7 @@
 <h3 align="center">A full-stack Web Developer</h3>
 
 - 👨‍💻 All of my projects are available at
-[https://raahthor.github.io/portfolio/](https://raahthor.github.io/portfolio/)
+[Portfolio Website](https://raahthor.github.io/portfolio/)
 - 📫 How to reach me **prashantrathore1435@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
