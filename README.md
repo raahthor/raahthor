@@ -1,4 +1,4 @@
-<p align="center"><a href="https://raahthor.vercel.app" target="_blank" ><img width="600" src="./assets/header.png"></a></p>
+<p align="center"><a href="https://raahthor.vercel.app" target="_blank" ><img width="600" src="./assets/prashant.png"></a></p>
 
 <h3 align="center">
 Code, Optimize, Innovate.
@@ -28,10 +28,10 @@ Code, Optimize, Innovate.
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=raahthor&theme=midnight-purple&hide_border=true&card_width=600" alt="GitHub Streak"/>
+    <img src="https://nirzak-streak-stats.vercel.app?user=raahthor&theme=highcontrast&hide_border=true&card_width=600" alt="GitHub Streak"/>
   </a>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raahthor&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=600" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raahthor&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=600" alt="Top Languages"/>
 </p>
 
 ---
