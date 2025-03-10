@@ -1,6 +1,7 @@
- <!-- Add image here -->
+<!-- <p align="center"><img width="800" src=""></p> -->
 
- <br>
+<br>
+
 <p align="center">
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=35&duration=3500&pause=700&color=fff&width=500&lines=Hey%2C+I'm+Prashant+Rathore;A+Full+Stack+Web+Developer" alt="Web Developer"/>
@@ -31,7 +32,7 @@ Code, Optimize, Innovate.
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p>
 
-#
+---
 
 <p align="center">
   <a href="https://git.io/streak-stats">
@@ -41,6 +42,8 @@ Code, Optimize, Innovate.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raahthor&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=550" alt="Top Languages"/>
 </p>
 
+---
+
 ### Connect with me!
 
 <a href="https://linkedin.com/in/raahthor/" target="_blank" ><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/raahthor/"  height="30"   width="40" /></a>
@@ -48,13 +51,13 @@ Code, Optimize, Innovate.
 <a href="https://www.x.com/raahthor"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x" height="30" width="40" /></a>
 <a href="https://www.instagram.com/raahthor/" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/raahthor/" height="30" width="40" /></a>
 
-
 All of my projects are available at
 [Portfolio Website](https://raahthor.vercel.app)
 
 ---
+<br>
+<p align="center"><img width="550" src="./assets/packman.gif" alt="packman gir"></p>
 
-[![](https://visitcount.itsvg.in/api?id=raahthor&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=raahthor&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
-<!--
-[![My Skills](https://skillicons.dev/icons?i=github,git,vercel)](https://skillicons.dev) -->
+<!-- [![My Skills](https://skillicons.dev/icons?i=github,git,vercel)](https://skillicons.dev) -->
