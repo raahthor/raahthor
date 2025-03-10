@@ -1,4 +1,4 @@
-<p align="center"><a href="https://raahthor.vercel.app" target="_blank" ><img width="600" src="./assets/header_gif.gif"></a></p>
+<p align="center"><a href="https://raahthor.vercel.app" target="_blank" ><img width="600" src="./assets/header.png"></a></p>
 
 <h3 align="center">
 Code, Optimize, Innovate.
