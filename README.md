@@ -1,12 +1,4 @@
-<!-- <p align="center"><img width="800" src=""></p> -->
-
-<br>
-
-<p align="center">
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=35&duration=3500&pause=700&color=fff&width=500&lines=Hey%2C+I'm+Prashant+Rathore;A+Full+Stack+Web+Developer" alt="Web Developer"/>
-</a>
-</p>
+<p align="center"><a href="https://raahthor.vercel.app" target="_blank" ><img width="600" src="./assets/header_gif.gif"></a></p>
 
 <h3 align="center">
 Code, Optimize, Innovate.
@@ -36,10 +28,10 @@ Code, Optimize, Innovate.
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=raahthor&theme=highcontrast&hide_border=true&card_width=550" alt="GitHub Streak"/>
+    <img src="https://nirzak-streak-stats.vercel.app?user=raahthor&theme=midnight-purple&hide_border=true&card_width=600" alt="GitHub Streak"/>
   </a>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raahthor&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=550" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raahthor&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=600" alt="Top Languages"/>
 </p>
 
 ---
@@ -55,6 +47,7 @@ All of my projects are available at
 [Portfolio Website](https://raahthor.vercel.app)
 
 ---
+
 <br>
 <p align="center"><img width="550" src="./assets/packman.gif" alt="packman gir"></p>
 
